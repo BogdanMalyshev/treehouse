@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Linotype Didot Std';
+    src: url('./assets/fonts/linotype_didot/DidotLTStd-BoldItalic.eot');
+    src: local('Linotype Didot Std Bold Italic'), local('DidotLTStd-BoldItalic'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-BoldItalic.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-BoldItalic.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Std Roman';
+    src: url('./assets/fonts/linotype_didot/DidotLTStd-Roman.eot');
+    src: local('Linotype Didot Std Roman'), local('DidotLTStd-Roman'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Roman.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Roman.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Pro';
+    src: url('./assets/fonts/linotype_didot/DidotLTPro-Italic.eot');
+    src: local('Linotype Didot Pro Italic'), local('DidotLTPro-Italic'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Italic.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Italic.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Std';
+    src: url('./assets/fonts/linotype_didot/DidotLTStd-Bold.eot');
+    src: local('Linotype Didot Std Bold'), local('DidotLTStd-Bold'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Bold.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Bold.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Pro';
+    src: url('DidotLTPro-BoldItalic.eot');
+    src: local('Linotype Didot Pro Bold Italic'), local('DidotLTPro-BoldItalic'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-BoldItalic.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-BoldItalic.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Pro Roman';
+    src: url('./assets/fonts/linotype_didot/DidotLTPro-Roman.eot');
+    src: local('Linotype Didot Pro Roman'), local('DidotLTPro-Roman'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Roman.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Roman.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Roman.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Std Headline Roman';
+    src: url('./assets/fonts/linotype_didot/DidotLTStd-Headline.eot');
+    src: local('Linotype Didot Std Headline Roman'), local('DidotLTStd-Headline'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Headline.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Headline.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Headline.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Headline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Pro Headline Roman';
+    src: url('./assets/fonts/linotype_didot/DidotLTPro-Headline.eot');
+    src: local('Linotype Didot Pro Headline Roman'), local('DidotLTPro-Headline'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Headline.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Headline.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Headline.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Headline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Pro';
+    src: url('./assets/fonts/linotype_didot/DidotLTPro-Bold.eot');
+    src: local('Linotype Didot Pro Bold'), local('DidotLTPro-Bold'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Bold.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Bold.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Linotype Didot Std';
+    src: url('./assets/fonts/linotype_didot/DidotLTStd-Italic.eot');
+    src: local('Linotype Didot Std Italic'), local('DidotLTStd-Italic'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Italic.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Italic.woff2') format('woff2'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Italic.woff') format('woff'),
+        url('./assets/fonts/linotype_didot/DidotLTStd-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GT-Cinetype';
+    src: url('./assets/fonts/gt_cinetype/GT-Cinetype-Regular.woff2'), url('./assets/fonts/gt_cinetype/GT-Cinetype-Regular.woff2') format('woff');
+}
